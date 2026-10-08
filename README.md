@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HousePriceAI — Flask House Price Prediction App
 
 A complete frontend + Flask API for the uploaded Linear Regression model.
@@ -84,3 +85,7 @@ Example response:
 The supplied pickle was trained with scikit-learn 1.6.1, so the requirements pin that version for maximum compatibility.
 
 The app does not retrain the model. It loads your supplied model and sends the four frontend inputs to `model.predict()`.
+=======
+# House
+House price pediction model
+>>>>>>> a98d7d4dcb699abaa81086955a01ed0f0bc20ff5
